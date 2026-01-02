@@ -1,8 +1,13 @@
-# 统一题目自动选择系统
+# ai题目自动选择系统
 
 ## 功能概述
 
 `unified_auto_answer.py`是一个自动化答题系统，用于处理在线学习平台的答题页面。该系统支持单选题、多选题和判断题的自动识别和作答，并集成了DeepSeek AI接口进行智能答题。
+
+## 使用演示视频（选自一个观看即可）
+
+CSDN：https://download.csdn.net/download/2301_81384057/92527590
+YouTube：https://youtu.be/WWI36FtzfJY
 
 ## 核心功能
 
