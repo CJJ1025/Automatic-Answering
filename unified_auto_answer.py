@@ -26,7 +26,7 @@ logger = logging.getLogger('DeepSeekAI')
 
 # DeepSeek AI 配置
 DEEPSEEK_CONFIG = {
-    "api_key": "sk-84087085c5834eb8ba5ad943cd933053",  # 请替换为您的DeepSeek API密钥
+    "api_key": "your_api_key",  # 请替换为您的DeepSeek API密钥
     "api_url": "https://api.deepseek.com/v1/chat/completions",
     "model": "deepseek-chat",
     "timeout": 30
